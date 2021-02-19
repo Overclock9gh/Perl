@@ -1,1 +1,1 @@
-# The following scripts handle specific configurations that a teacher requests for a Network Supervision course.
+# The following scripts handle specific configurations that a teacher requested for a Network Supervision course.
